@@ -1,0 +1,19 @@
+name: Sync Wiki
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send commit id to Demon List VN API
+        run: |
+          curl -X POST https://api.demonlistvn.com/syncWiki \
+            -H "Content-Type: application/json" \
+            -d '{
+              "commit_id": "${{ github.sha }}"
+            }'
