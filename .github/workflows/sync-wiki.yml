@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Send commit id to Demon List VN API
         run: |
-          curl -X POST https://api.demonlistvn.com/syncWiki \
+          curl --max-time 30 -X POST https://api.demonlistvn.com/syncWiki \
             -H "Content-Type: application/json" \
             -d '{
               "commit_id": "${{ github.sha }}"
