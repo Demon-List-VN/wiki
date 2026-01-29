@@ -1,5 +1,5 @@
 # wiki
-## Folder structore
+## Folder structure
 All files should be under `/src/[locale]/`
 
 ## File structure
