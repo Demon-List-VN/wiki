@@ -8,7 +8,9 @@ Each file should have structure like this
 # Wiki title. This line must have "# " at the beginning
 Wiki description. This line can be blank
 
-Content
+![image](image link here)
+
+Lorem ispum dolor sit amet, ...
 ...
 ```
 
