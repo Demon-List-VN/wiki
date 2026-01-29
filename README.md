@@ -1,5 +1,8 @@
 # wiki
+## Folder structore
+All files should be under `/src/[locale]/`
 
+## File structure
 Each file should have structure like this
 ```md
 # Wiki title. This line must have "# " at the beginning
