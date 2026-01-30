@@ -3,18 +3,16 @@
 ## Naming
 All files and folders is `kebab-case`. Example: `this-is-a-file-or-folder-name`
 
-All files and folders should be named in English. Translation is handled in the frontend
+All files and folders should be named in English. Translation is handled in the frontend with key `wiki.folders.[folder-name]`
 
 To define new locale for a file, their folder structure must be the same
 
 Exmaple
 ```
-vi/rule/demon-list.md
-en/rule/demon-list.md
+vi/rules/demon-list.md
+en/rules/demon-list.md
 
 => rule/demon-list have 2 locale: vi, en
-
-Frontend translation key is: wiki.folders.rule/demon-list
 ```
 
 ## Folder structure
