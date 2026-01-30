@@ -1,4 +1,8 @@
 # wiki
+
+## Naming
+All files and folders is `kebab-case`. Example: `this-is-a-file-or-folder-name`
+
 ## Folder structure
 All files should be under `/src/[locale]/`
 
@@ -14,10 +18,9 @@ Lorem ispum dolor sit amet, ...
 ...
 ```
 
-All commits will trigger sync work flow to database to index wiki file.
+All commits will trigger sync to database workflow.
 
-Wiki content will be fetched from this repo as raw file
+Wiki contents will be fetched from this repo as raw file
 
-First line will be used for `title` column, second line will be used for `description` column in the database
-
-`description` can be empty, `title` can not be empty
+`title` is the first line of the file. Cannot be empty
+`description` is the first line that isn't the first line and image. Can be empty
