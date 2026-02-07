@@ -18,7 +18,7 @@ jobs:
                --retry-all-errors \
                --fail \
                --show-error \
-               -X POST https://api.demonlistvn.com/sync/wiki \
+               -X POST https://api.gdvn.net/sync/wiki \
                -H "Content-Type: application/json" \
                -d '{
                  "commit_id": "${{ github.sha }}"
