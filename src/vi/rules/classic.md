@@ -8,15 +8,15 @@
 ## Xếp hạng
 
 - Phân bổ xếp hạng (chỉ áp dụng cho Classic):
-	- Ascended Grandmaster: >= 6000 điểm
-	- Legendary Grandmaster: >= 5000 điểm
-	- Grandmaster: >= 3500 điểm
-	- Master: >= 2500 điểm
-	- Candidate Master: >= 2000 điểm
-	- Expert: >= 1500 điểm
-	- S: >= 1000 điểm
-	- A: >= 800 điểm
-	- B: >= 600 điểm
-	- C: > 0 điểm
+	- Ascended Grandmaster: Rank 1
+	- Legendary Grandmaster: Rank <= 5
+	- Grandmaster: Rank <= 15
+	- Master: >= 3500 points
+	- Candidate Master: >= 2500 points
+	- Expert: >= 2000 points
+	- Specialist: >= 1500 points
+	- A: >= 1000 points
+	- B: >= 500 points
+	- C: > 0 points
 
 - Chú ý: 0 điểm hoặc không có điểm sẽ không được xếp hạng.

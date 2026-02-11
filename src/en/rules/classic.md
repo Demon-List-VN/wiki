@@ -8,15 +8,15 @@
 ## Ranking
 
 - Ranking distribution (applies only to Classic):
-	- Ascended Grandmaster: >= 6000 points
-	- Legendary Grandmaster: >= 5000 points
-	- Grandmaster: >= 3500 points
-	- Master: >= 2500 points
-	- Candidate Master: >= 2000 points
-	- Expert: >= 1500 points
-	- S: >= 1000 points
-	- A: >= 800 points
-	- B: >= 600 points
+	- Ascended Grandmaster: Rank 1
+	- Legendary Grandmaster: Rank <= 5
+	- Grandmaster: Rank <= 15
+	- Master: >= 3500 points
+	- Candidate Master: >= 2500 points
+	- Expert: >= 2000 points
+	- Specialist: >= 1500 points
+	- A: >= 1000 points
+	- B: >= 500 points
 	- C: > 0 points
 
 - Note: 0 points or having no points will not be ranked.
