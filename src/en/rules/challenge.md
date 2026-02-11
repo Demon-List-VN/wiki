@@ -22,12 +22,12 @@
 ## Ranking
 
 - Ranking distribution:
-	- Legendary Grandmaster (LGM): >= 5000 rating
-	- Grandmaster (GM): >= 3500 rating
-	- Master (M): >= 2500 rating
-	- Candidate Master (CM): >= 2000 rating
-	- Expert (EX): >= 1500 rating
-	- S (SP): >= 1000 rating
-	- A: >= 800 rating
-	- B: >= 600 rating
-	- C: > 0 rating
+	- Challenger V: Rank <= 5
+	- Challenger IV: Rank <= 15
+	- Challenger III: >= 2500
+	- Challenger II: >= 2000
+	- Challenger I: >= 1500
+	- S: >= 1000
+	- A: >= 600
+	- B: >= 300
+	- C: > 0

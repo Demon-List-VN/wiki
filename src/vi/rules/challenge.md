@@ -22,12 +22,12 @@
 ## Xếp hạng
 
 - Phân bổ xếp hạng:
-	- Legendary Grandmaster (LGM): >= 5000 điểm
-	- Grandmaster (GM): >= 3500 điểm
-	- Master (M): >= 2500 điểm
-	- Candidate Master (CM): >= 2000 điểm
-	- Expert (EX): >= 1500 điểm
-	- S (SP): >= 1000 điểm
-	- A: >= 800 điểm
-	- B: >= 600 điểm
-	- C: > 0 điểm
+	- Challenger V: Rank <= 5
+	- Challenger IV: Rank <= 15
+	- Challenger III: >= 2500
+	- Challenger II: >= 2000
+	- Challenger I: >= 1500
+	- S: >= 1000
+	- A: >= 600
+	- B: >= 300
+	- C: > 0
