@@ -11,12 +11,12 @@
 	- Ascended Grandmaster: Rank 1
 	- Legendary Grandmaster: Rank <= 5
 	- Grandmaster: Rank <= 15
-	- Master: >= 3500 points
-	- Candidate Master: >= 2500 points
-	- Expert: >= 2000 points
-	- Specialist: >= 1500 points
-	- A: >= 1000 points
-	- B: >= 500 points
-	- C: > 0 points
+	- Master: >= 3500
+	- Candidate Master: >= 2500
+	- Expert: >= 2000
+	- Specialist: >= 1500
+	- A: >= 1000
+	- B: >= 500
+	- C: > 0
 
 - Note: 0 points or having no points will not be ranked.
