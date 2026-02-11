@@ -22,13 +22,12 @@
 ## Ranking
 
 - Ranking distribution:
-	- Ascended Grandmaster (AGM): >= 6000 points
-	- Legendary Grandmaster (LGM): >= 5000 points
-	- Grandmaster (GM): >= 4000 points
-	- Master (M): >= 3000 points
-	- Candidate Master (CM): >= 2500 points
-	- Expert (EX): >= 2000 points
-	- Specialist (SP): >= 1500 points
-	- A: >= 1000 points
-	- B: >= 500 points
-	- C: > 0 points
+	- Legendary Grandmaster (LGM): >= 5000 rating
+	- Grandmaster (GM): >= 3500 rating
+	- Master (M): >= 2500 rating
+	- Candidate Master (CM): >= 2000 rating
+	- Expert (EX): >= 1500 rating
+	- S (SP): >= 1000 rating
+	- A: >= 800 rating
+	- B: >= 600 rating
+	- C: > 0 rating

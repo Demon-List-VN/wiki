@@ -22,13 +22,12 @@
 ## Xếp hạng
 
 - Phân bổ xếp hạng:
-	- Ascended Grandmaster (AGM): >= 6000 điểm
 	- Legendary Grandmaster (LGM): >= 5000 điểm
-	- Grandmaster (GM): >= 4000 điểm
-	- Master (M): >= 3000 điểm
-	- Candidate Master (CM): >= 2500 điểm
-	- Expert (EX): >= 2000 điểm
-	- Specialist (SP): >= 1500 điểm
-	- A: >= 1000 điểm
-	- B: >= 500 điểm
+	- Grandmaster (GM): >= 3500 điểm
+	- Master (M): >= 2500 điểm
+	- Candidate Master (CM): >= 2000 điểm
+	- Expert (EX): >= 1500 điểm
+	- S (SP): >= 1000 điểm
+	- A: >= 800 điểm
+	- B: >= 600 điểm
 	- C: > 0 điểm
