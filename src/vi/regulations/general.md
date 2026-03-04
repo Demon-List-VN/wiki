@@ -73,12 +73,12 @@ Ban quản trị là những người nắm giữ tài nguyên cốt lõi và đ
 
 ### Điều 7. Ma trận Phân quyền, Tuyến báo cáo & Mức độ ổn định nhân sự
 
-| Nhóm chức danh | Vị trí (Role) | Cấp trên trực tiếp | Tần suất xoay vòng (Độ ổn định) |
+| Nhóm chức danh | Vị trí (Role) | Cấp trên trực tiếp | Tần suất xoay vòng |
 | :--- | :--- | :--- | :--- |
-| **Core Team** | **Project Lead** | Không có | **Tuyệt đối ổn định** - Linh hồn dự án. |
-| | **Tech Lead (Solo Dev)** | Project Lead | **Tuyệt đối ổn định** - SPOF của dự án. |
-| | **Community & Staffing Lead** | Project Lead | **Rất ổn định** - Nắm giữ network nhân sự. |
-| **Kỹ thuật** | **Developer** | Tech Lead | **Rất cao** - Chỉ làm việc qua GitHub Issue. |
+| **Core Team** | **Project Lead** | Không có | **Rất thấp** - Linh hồn dự án. |
+| | **Tech Lead (Solo Dev)** | Project Lead | **Rất thấp** - SPOF của dự án. |
+| | **Community & Staffing Lead** | Project Lead | **Thấp** - Nắm giữ network nhân sự. |
+| **Kỹ thuật** | **Contributor** | Tech Lead | **Rất cao** - Chỉ làm việc qua GitHub Issue. |
 | **Nội dung List** | **Admin List (Tổng)** | Project Lead | **Thấp** - Đòi hỏi chuyên môn sâu. |
 | | **Admin Sub-List** | Admin List | **Trung bình** - Cần có backup dự phòng. |
 | | **Admin Event** | Admin List | **Cao** - Hoạt động mạnh theo mùa giải. |
